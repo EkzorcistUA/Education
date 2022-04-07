@@ -10,3 +10,37 @@ ul {
 	text-decoration: underline;
 	font-size:18px;
 }
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 13px;
+    left: 200px;
+    font-size: 18px;
+}
+div.outer1{
+    width: auto;
+    height: auto;
+    margin-top: 55px;
+    margin-right: 129px;
+    margin-left: 150px;
+    margin-bottom: 11px;
+    padding: 10px;
+    border: 0 solid #ccc;
+    background-color: #eee;
+    text-align: justify;
+        }
+div.outer2{
+    width: auto;
+    height: auto;
+    margin-right: 129px;
+    margin-left: 150px;
+    margin-bottom: 18px;
+    padding: 10px;
+    border: 0 solid #ccc;
+    background-color: #eee;
+    text-align: justify;
+        }

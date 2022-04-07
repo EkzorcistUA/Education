@@ -1,0 +1,32 @@
+img {
+    width: 75%;
+    height: auto;
+    background-size: cover;
+}
+b {
+	font-size:22px;
+}
+ul {
+	text-decoration: underline;
+	font-size:16px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 13px;
+    left: 200px;
+    font-size: 18px;
+}
+div.outer{
+    width: auto;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+    border: 0 solid #ccc;
+    background-color: #eee;
+    text-align: justify;
+        }
